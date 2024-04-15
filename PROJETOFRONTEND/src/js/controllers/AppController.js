@@ -1,6 +1,6 @@
 export class AppController {
     constructor() {
-        console.log("Construtor do AppController rodou!!!");
+        console.log("Construtor do AppController foi carregado!");
         this.initialize();
     }
 
